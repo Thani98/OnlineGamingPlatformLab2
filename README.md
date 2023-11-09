@@ -1,5 +1,4 @@
 # OnlineGamingPlatformLab2
-# lab2 
 task1 I have build EMF Metamodel.
 ![image](https://github.com/Thani98/OnlineGamingPlatformLab2/assets/148690401/78b3265f-73ce-4b33-8afc-d191f5d3c357)
 
